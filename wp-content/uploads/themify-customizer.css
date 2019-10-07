@@ -1,0 +1,122 @@
+/* Themify Customize Styling */
+body {	
+	font-family:Roboto;	font-weight:100;
+ 
+}
+h1 {		font-weight:bold;
+	font-size:80px;
+ 
+}
+h2 {	
+	font-family:Roboto;	font-weight:300;
+	font-size:48px;
+
+	color: #18ffff; 
+}
+h3 {		font-size:25px;
+ 
+}
+h4 {	
+	font-family:Roboto;	font-weight:300;
+	font-size:17.5px;
+	line-height:8px;
+	text-align:right;
+	color: #919191; 
+}
+h5 {	
+	font-family:Roboto;	font-weight:300;
+	font-size:25px;
+ 
+}
+h6 {		font-size:100px;
+
+	color: #ffffff; 
+}
+#headerwrap {	
+	background-color: #3b3b3b; 
+}
+#header a {	
+	color: rgba(217,3,3,0.00); 
+}
+#site-logo, #site-logo a,#footer-logo, #footer-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo {	
+	font-family:Roboto;	font-weight:bold;
+	font-size:24px;
+
+	color: #ffffff; 
+}
+#site-logo, #site-logo a,#footer-logo, #footer-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+#main-nav {		position:relative;
+
+	top: 3px; 
+}
+#main-nav a {	
+	font-family:Roboto;	font-weight:300;
+	font-size:16px;
+ 
+}
+#main-nav a, #main-nav > li > a {	
+	color: #ffffff; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #e6e6e6; 
+}
+#main-nav .current_page_item a, #main-nav .current-menu-item a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #ffffff; 
+}
+#main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #e6e6e6; 
+}
+#footerwrap {	
+	background-color: #292929; 
+}
+#footer {	
+	color: #ffffff; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+@media screen and (max-width: 976px) { /* Themify Customize Styling */
+h4 {	
+	font-family:Roboto;	font-weight:100;
+	font-size:12.5px;
+ 
+}
+h5 {		font-size:20px;
+ 
+}
+#site-logo, #site-logo a,#footer-logo, #footer-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+h4 {		font-size:10px;
+ 
+}
+h5 {		font-size:15px;
+ 
+}
+#site-logo, #site-logo a,#footer-logo, #footer-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+ }@media screen and (max-width: 479px) { /* Themify Customize Styling */
+h1 {		font-size:50px;
+ 
+}
+h3 {		font-size:20px;
+ 
+}
+h4 {		font-weight:300;
+	font-size:10px;
+ 
+}
+h5 {		font-size:20px;
+ 
+}
+h6 {		font-size:50px;
+ 
+}
+#site-logo, #site-logo a,#footer-logo, #footer-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+ }
