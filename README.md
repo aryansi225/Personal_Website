@@ -1,9 +1,11 @@
 # Personal_Website
 
-This project deals with my personal website created using Wordpress. The website can be visited at .
+This is an old version of my website which I had built back in 2016.
+This a personal website I had made in wordpress. Wordpress themes were used to create interactive website with animation
 
 # Screenshots
 
-# Note 
+![Screenshot_2019-10-07 Aryan Singh – Just another WordPress site](https://user-images.githubusercontent.com/16362957/66336190-24fe7700-e92c-11e9-96b9-8781f7c03a8a.jpg)
 
-The source files are not put on the repository due to security reasons.
+# Dependencies
+Wordpress
