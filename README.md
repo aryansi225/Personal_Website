@@ -9,3 +9,11 @@ This a personal website I had made in wordpress. Wordpress themes were used to c
 
 # Dependencies
 Wordpress
+
+# My Original Contribution & Learnings
+
+Contribution =>
+Implemented a personal website using wordpress by taking reference from various online articles and educational video.
+
+Major Learnings => 
+Learnt how to use wordpress and its themes.
